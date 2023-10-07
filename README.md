@@ -1,6 +1,6 @@
 # Media-Production-Scheduler
 
-This application is a REST API built using the Spring-Boot framework, handleing HTTP requests and responses.
+This application is a REST API built using the Spring-Boot framework, handling HTTP requests and responses.
 
 ## Usage
 
